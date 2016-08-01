@@ -1,0 +1,46 @@
+body
+{
+	background-color: black;
+	text-align: center;
+	color: white;
+	font-family: calibri;
+	
+}
+
+td 
+{
+	border: 2px solid white;
+	text-align:center;
+	width: 200px;
+	
+}
+
+#indexTable
+{
+	width: 800px;
+	
+}
+
+#pic1 
+{
+	width: 400px;
+	float: left;
+	padding-right:7px;
+	
+}
+
+#maintext 
+{
+	width:800px;
+	text-align:left;
+	border: 2px solid white;
+	padding:5px;
+	overflow: auto;
+	
+}
+
+#links
+{
+	color:white;
+	
+}
